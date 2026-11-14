@@ -14,7 +14,7 @@ export const CONFIG = {
     'Masa ini seseorang yang dulunya memiliki dunia abu - abu, sekarang memiliki dunia yang berwarna. Terima kasih sudah menjadi warna di duniaku. ',
   photos: [
     { src: '/photos/1.webp', caption: 'Healing', date: 'Jd inget pas hujann' },
-    { src: '/photos/4.webp', caption: 'Malam yang indah', date: 'mie ayamnya enak🤤' },
+    { src: '/photos/4.webp', caption: 'Malam yang indah', date: 'Maen game bareng kamu tuh seruuu' },
     { src: '/photos/3.webp', caption: 'Lari 20mnt, istirahat 30mnt', date: 'Halo tantee' },
     { src: '/photos/6.webp', caption: 'Anak senja kaak?', date: 'Takut air laut🤭' },
     { src: '/photos/5.webp', caption: 'Jalan - jalan yg seruu', date: 'Bunganya kalah indah' },
